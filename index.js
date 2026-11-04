@@ -5,3 +5,5 @@ let nombre = "Juan";
 let apellido = "Pérez";
 let nombreCompleto = nombre + " " + apellido;
 console.log(nombreCompleto);
+
+console.log(`El nombre completo es: ${nombreCompleto}`);
